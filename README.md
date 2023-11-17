@@ -17,7 +17,7 @@ Else
 Print weak password
 
 4.Password Hashing
-Hashing is also used with a secret key
+Hashing is also used with a secret key by a ascii value to the password
 
 5.Password Access Control using Timer
 Access control btw tries is controlled using timer
